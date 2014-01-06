@@ -7,4 +7,6 @@
  */
  
  echo "this is a first test my friends !";
+ 
+ echo "Now let's create new lines my friends ....";
 ?>
